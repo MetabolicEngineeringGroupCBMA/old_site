@@ -1,0 +1,4 @@
+﻿+ YPArabinose
+
+like [YPD] but with 20 g/L [arabinose] instead of [glucose].
+

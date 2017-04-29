@@ -1,0 +1,62 @@
+﻿+ SureClean
+[alias:SURECLEAN]
+PCR clean up kit
+
+    Initial Step for achieving a pink-colored pellet:
+    Add 6μl of pink co-precipitant to your nucleic acid sample and mix
+    thoroughly for 30 seconds. For samples ≥ 200μl, increase the amount
+    of pink co-precipitant accordingly, but never use more than 20μl.
+    (Note: To ensure an efficient recovery, a minimum of 3μl of pink co-
+    precipitate must be used)
+
+1.  Add an equal volume of SureClean to nucleic acid solution and
+    mix thoroughly.
+  
+2.  Incubate at room temperature for at least 10 mins.
+
+3.  Centrifuge at maximum speed (best results at 14,000x g) in a
+    bench-top centrifuge for 10 minutes and carefully remove
+    supernatant by aspiration.
+    (Note: Centrifuging for longer time leads to better DNA recovery)
+
+4.  Add a volume of 70% Ethanol equal to 2x original sample volume
+    and vortex for 10 seconds.
+    (Note: For sensitive applications an optional second ethanol wash
+    can be performed)
+    
+5.  Centrifuge at maximum speed (best results at 14,000 x g) in a
+    bench-top centrifuge for 10 minutes, remove supernatant and air-
+    dry to ensure complete removal of ethanol.
+    (Note: Do not overdry the pellet)
+
+6.  Resuspend pellet in desired volume of TE, water or any other
+    appropriate buffer for downstream procedures.
+
+
+Notes:
+A.
+    Apparent molecular weight of the DNA treated (agarose gel
+    electrophoresis) may be higher if the washing-step with 70%
+    ethanol step is omitted. For accurate MW assay, two washing
+    steps are recommended after the cleaning procedure.
+    
+B.
+    Nucleic acids to be purified must be ≥ 100 bp.
+
+C.
+    Easier visualisation of the pellet can be achieved with a pink
+    co-precipitant which is supplied in the Bioline SureClean Plus
+    (BIO-37047).
+[rel://files/SureClean_6Q6LZJ33W2.pdf]
+[rel://files/SureClean Plus.pdf]
+[rel://files/SureClean.pdf]
+http://www.biocompare.com/review/414/Biolines-SureClean-Plus.html
+http://www.bioline.com/h_prod_detail_ld.asp?user_prodname=SureClean
+http://www.biocompare.com/ProductDetails/491139/SureClean-Plus-from-Bioline.html
+
+PROTOCOL
+
+http://openwetware.org/wiki/Isopropanol_Precipitation_for_PCR_Purification
+
+
+

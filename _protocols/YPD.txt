@@ -1,0 +1,22 @@
+﻿+ YPD YEDP yeast extract peptone dextrose
+[alias:YEPD]
+revised 2010-03-04
+
+http://en.wikipedia.org/wiki/YEPD
+This medium is for general growth of yeast
+
+10 g/L yeast extract
+10 g/L peptone or tryptone (standard 20 g/L )
+20 g/L glucose
+(20 g/L agar)
+pH usually above 7 using tap water
+
+This medium can be prepared in dry form and then mixed with water and heated using a microwave oven: [YPDpowder]
+
+For solid medium, add the following to a 1L Schott bottle:
+5 g yeast extract
+5 g peptone (standard 20 g/L )
+10 g glucose
+10 g agar
+and water to 500mL and a magnetic stirrer
+Autoclave with lid loosely fitted.

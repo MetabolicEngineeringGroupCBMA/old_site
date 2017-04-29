@@ -1,0 +1,24 @@
+title: Metabolic Engineering Group at CBMA (MEC)
+email: bjorn_johansson@bio.uminho.pt
+
+description: > # this means to ignore newlines until "baseurl:"
+    This is the website of the Metabolic Engineering Group at CBMA
+
+baseurl: "" # the subpath of your site, e.g. /blog/ /BjornFJohansson
+
+github_username:  BjornFJohansson
+
+markdown: kramdown
+
+kramdown:
+  input: GFM
+
+collections:
+  - protocols
+  - teaching
+
+collections:
+  protocols:
+    output: true
+  teaching:
+    output: true

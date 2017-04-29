@@ -1,0 +1,17 @@
+﻿++ EDTA
+[protocol:]
+Revised 2012-02-01
+Ethylenediaminetetraacetic acid
+
+http://openwetware.org/wiki/EDTA#0.5_M_EDTA_stock
+http://en.wikipedia.org/wiki/Ethylenediaminetetraacetic_acid
+[rel://files/edta.jpg]
+
+MW = 292.25 g/mol 
+
+500mL 0.5M EDTA:
+73.1g EDTA
+add 400mL ddH2O
+set pH with NaOH (usually to 8, will help to dissolve EDTA)
+add water to 500mL
+stable for years at room temperature

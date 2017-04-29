@@ -1,0 +1,14 @@
+﻿+ YPDpowder
+PROTOCOL[EXP:true]
+revised 2010-03-04
+YPD medium can be premade in dry form and then prepared using a microwave oven.
+A practical way of storing a YPD stock in dry form.
+For 2.5L media:
+25 g yeast extract
+25 g peptone (50 g/L normally)
+50 g glucose
+
+pH usually above 7 using tapwater
+For 500 ml liquid medium, take 25 g of the mix and dissolve in 500 mL tap water add 10g agar for plates.
+Use a 1 L schott bottle and run for 10 min at full power in a microwave oven with the cap shut *tightly* 
+

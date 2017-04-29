@@ -1,0 +1,3 @@
+﻿++ YPGal
+
+Same as [YPD] but with 20g galactose / L instead of glucosae

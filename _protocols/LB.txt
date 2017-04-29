@@ -1,0 +1,16 @@
+﻿+ LB
+PROTOCOL[EXP:true]
+revised [2008-10-16]
+
+http://en.wikipedia.org/wiki/Lysogeny_broth
+
+This medium is for general growth of E. coli:
+
+10 g/L Tryptone or Peptone
+ 5 g/L yeast extract
+10 g/L NaCl
+(20 g/L agar)
+
+pH usually 7 using tapwater
+
+This medium can be premade in dry form and then prepared using a microwave oven: [LBpowder]

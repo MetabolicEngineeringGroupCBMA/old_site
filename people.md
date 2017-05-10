@@ -29,6 +29,7 @@ Björn Johansson, PI
 - [ResearcherID](http://www.researcherid.com/rid/A-3523-2012)
 - [ResearchGate](https://www.researchgate.net/profile/Bjoern_Johansson4)
 - [My private blog](http://ochsavidare.blogspot.pt/) (swe&eng, broad range of topics, not necessarily science !)
+- [runkeeper!](https://runkeeper.com/user/bjornfjohansson)
 
 ## Former members
 

@@ -2,7 +2,7 @@ title: Metabolic Engineering Group at CBMA (MEC)
 email: bjorn_johansson@bio.uminho.pt
 
 description: > # this means to ignore newlines until "baseurl:"
-    This is the website of the Metabolic Engineering Group at CBMA
+    MEC @ CBMA
 
 baseurl: "" # the subpath of your site, e.g. /blog/ /BjornFJohansson
 

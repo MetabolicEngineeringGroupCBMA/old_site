@@ -24,6 +24,7 @@ Miguel Pacheco, Master student
 ![BjornJohansson]({{ site.url }}/people/BjornJohanssonWhiteBoard.jpg)
 
 Björn Johansson, PI
+
 - FCT Public Key (chave pública) J005395QL1Q
 - [Google Scholar](https://scholar.google.pt/citations?hl=en&user=7AiEuJ4AAAAJ&view_op=list_works&sortby=pubdate)
 - [ORCID](http://orcid.org/0000-0002-7723-074X)

@@ -36,8 +36,6 @@ Björn Johansson, PI
 
 ## Former members
 
-![Paulo Veloso]({{ site.url }}/people/PauloVeloso.jpg)
-
 Paulo Veloso, MSc
 
 ![Gabriela Ribeiro]({{ site.url }}/people/GabrielaRibeiro.jpg)

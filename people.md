@@ -21,7 +21,7 @@ Paulo Silva, Master student in collaboration with [Dr. Rui Oliveira](https://sit
 
 Humberto Pereira, Master student
 
-[Google Scholar]()
+[Google Scholar](https://scholar.google.pt/citations?hl=en&user=v2htOOsAAAAJ&view_op=list_works&sortby=pubdate)
 
 ![MiguelPacheco]({{ site.url }}/people/MiguelPacheco.jpg)
 
@@ -64,12 +64,21 @@ Filipa Pereira, PhD
 
 
 
+
+
+
 ## Short visits
 
 ![JilianaCabrini]({{ site.url }}/people/JulianaCabrini.jpg)
 
 Juliana Cabrini Carmello, PhD student
 
+[Google Scholar](https://scholar.google.com.br/citations?hl=pt-BR&user=4Nu2uwoAAAAJ&view_op=list_works&sortby=pubdate)
+
 ![AnaPoveda]({{ site.url }}/people/AnaPoveda.png)
 
 Ana Poveda, PhD
+
+[Google Scholar](https://scholar.google.com.br/citations?hl=pt-BR&user=e5EDaQ0AAAAJ&view_op=list_works&sortby=pubdate)
+
+

@@ -10,20 +10,19 @@ Our interest is metabolic engineering primarily of bakers yeast [*Saccharomyces 
 
 Our current focus is the production of lipids and fatty acids.
 
-
 ![yeast](yeast.png)
 
-## Current research topics include differenet aspects of metabolic engineering:
+## Current research topics include different aspects of metabolic engineering:
 
-Methods for engineering and transferring entire metabolic pathways in and between *S. cerevisiae* strains. We have developed a
-  method called the Yeast Pathway Kit, that produces short metabolic pathways for a given number of genes compared to other methods.
+Methods for engineering and transferring entire metabolic pathways in and between *S. cerevisiae* strains. 
+We have developed a method we call the Yeast Pathway Kit, that produces short metabolic pathways for a given 
+number of genes compared to other methods.
 
 ![ypk](yeast_pathway_kit_figure.png)
 
-
 Fatty acid overproduction and secretion.
 
-Metabolism of the pentose sugars *D-xylose* and *L-arabinose*, which are common sugars in plant derived biomass.
+Metabolism of the pentose sugars *D-xylose* which is common in plant derived biomass.
 
 ## Open source software:
 

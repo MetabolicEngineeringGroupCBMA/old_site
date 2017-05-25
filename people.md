@@ -27,7 +27,7 @@ Humberto Pereira, Master student
 
 Miguel Pacheco, Master student
 
-[Google Scholar]()
+[Google Scholar](https://scholar.google.com/citations?hl=pt-PT&user=63Uzl8wAAAAJ&view_op=list_works&sortby=pubdate)
 
 ![BjornJohansson]({{ site.url }}/people/BjornJohanssonWhiteBoard.jpg)
 

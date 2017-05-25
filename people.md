@@ -15,7 +15,7 @@ Flavio de Azevedo, PhD student
 
 Paulo Silva, Master student in collaboration with [Dr. Rui Oliveira](https://sites.google.com/site/personalwebpageofruioliveira/)
 
-[Google Scholar]()
+[Google Scholar](https://scholar.google.com/citations?hl=pt-PT&user=YMZQjhEAAAAJ&view_op=list_works&sortby=pubdate)
 
 ![HumbertoPereira]({{ site.url }}/people/HumbertoPereira.jpg)
 

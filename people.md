@@ -9,17 +9,25 @@ title: People
 
 Flavio de Azevedo, PhD student
 
+[Google Scholar](https://scholar.google.pt/citations?hl=en&user=lWjZURwAAAAJ&view_op=list_works&sortby=pubdate)
+
 ![PauloSilva]({{ site.url }}/people/PauloSilva.jpg)
 
 Paulo Silva, Master student in collaboration with [Dr. Rui Oliveira](https://sites.google.com/site/personalwebpageofruioliveira/)
+
+[Google Scholar]()
 
 ![HumbertoPereira]({{ site.url }}/people/HumbertoPereira.jpg)
 
 Humberto Pereira, Master student
 
+[Google Scholar]()
+
 ![MiguelPacheco]({{ site.url }}/people/MiguelPacheco.jpg)
 
 Miguel Pacheco, Master student
+
+[Google Scholar]()
 
 ![BjornJohansson]({{ site.url }}/people/BjornJohanssonWhiteBoard.jpg)
 
@@ -36,21 +44,25 @@ Björn Johansson, PI
 
 ## Former members
 
-Paulo Veloso, MSc
-
 ![Gabriela Ribeiro]({{ site.url }}/people/GabrielaRibeiro.jpg)
 
 Gabriela Ribeiro, PhD
 
+[Google Scholar](https://scholar.google.pt/citations?hl=en&user=jYkpf0AAAAAJ&view_op=list_works&sortby=pubdate)
+
 ![ÂngelaCarvalho]({{ site.url }}/people/AngelaCarvalho.jpg)
-- [Google Scholar](https://scholar.google.pt/citations?hl=en&user=rQl-mO4AAAAJ&view_op=list_works&sortby=pubdate)
 
 Ângela Carvalho, MSc
 
+[Google Scholar](https://scholar.google.pt/citations?hl=en&user=rQl-mO4AAAAJ&view_op=list_works&sortby=pubdate)
+
 ![Filipa Pereira]({{ site.url }}/people/FilipaPereira.jpg)
-- [Google Scholar](https://scholar.google.pt/citations?hl=en&user=iiHuvP4AAAAJ&view_op=list_works&sortby=pubdate)
 
 Filipa Pereira, PhD
+
+[Google Scholar](https://scholar.google.pt/citations?hl=en&user=iiHuvP4AAAAJ&view_op=list_works&sortby=pubdate)
+
+
 
 ## Short visits
 
@@ -61,9 +73,3 @@ Juliana Cabrini Carmello, PhD student
 ![AnaPoveda]({{ site.url }}/people/AnaPoveda.png)
 
 Ana Poveda, PhD
-
-
-
-
-
-

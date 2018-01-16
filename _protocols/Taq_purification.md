@@ -9,7 +9,7 @@ or some DNA that is common to pBR322 derived plasmids as there will be contamina
 This can be resolved by always including a negative control without template. 
 
 1. Streak the Taq E. coli strain on amp plate (box: Björn#2 position #9)
-2. Pick a single colony and inoculate 2 ml SB
+2. Pick a single colony and inoculate 2 ml Superbroth (SB)
 3. Grow O/N
 4. Inoculate 500 ml SB with 1ml of previous culture
 5. Grow to OD640 = 0.4
@@ -28,12 +28,11 @@ This can be resolved by always including a negative control without template.
 18. Note! Slow addition of both storage buffers (with mixing) is supposed to result in more units of Taq pol
 19. Dispense the mixture in Eppendorf tubes and store at -20 C.
 
-### SB (1L)
-Superbroth
-32 g tryptone
-20 g yeast extract 
-5 g NaCl 
-1.25 ml 4M NaOH
+### Superbroth (SB) (1L)
+- 32 g tryptone
+- 20 g yeast extract 
+- 5 g NaCl 
+- 1.25 ml 4M NaOH
 
 ### Buffer A 
 50 mM Tris-HCl, pH 8
@@ -72,9 +71,9 @@ Glycerol 50% and 75% (autoclaved)
 0.5% Tween 20
 0.5% Nonidet P40 (NP40)
 
-References and resources:
+### References and resources:
 
-http://mama.indstate.edu/pfaffle/ptaq/
-[Taq protocols & papers](taqprotocols.zip)
+* http://mama.indstate.edu/pfaffle/ptaq/
+* [Taq protocols & papers](taqprotocols.zip)
 
 

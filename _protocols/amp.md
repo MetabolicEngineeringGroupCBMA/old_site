@@ -2,6 +2,8 @@
 title: Ampicillin stock solution
 ---
 
+# Ampicillin stock solution
+
 How to prepare Protocol for ampicillin 200 mg/ml stock solution stock (x 1000). 
 
 

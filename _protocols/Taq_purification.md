@@ -37,7 +37,7 @@ This can be resolved by always including a negative control without template.
 ### Buffer A 
 - 50 mM Tris-HCl, pH 8
 - 50 mM dextrose
-- 1 mM EDTA)
+- 1 mM EDTA
 
 ### Buffer B 
 - 10 mM Tris-HCl, pH 8
@@ -57,10 +57,11 @@ This can be resolved by always including a negative control without template.
 ### Stock solutions:
 - 1M Tris-HCl pH 8
 - 500mM EDTA pH 8
-- Glycerol 50% and 75% (autoclaved)
-- 100mM PMSF  in DMSO
-- 0.5% Tween 20
-- 0.5% Nonidet P40 (if you do not have Nonidet P40, take twice of the Tween)
+- Glycerol 50% v/v
+- Glycerol 75% v/v
+- 100mM PMSF in DMSO
+- Tween 20
+- Nonidet P40 (if you do not have Nonidet P40, take twice of the Tween)
 
 ### References and resources:
 

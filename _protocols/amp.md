@@ -13,5 +13,5 @@ How to prepare Protocol for ampicillin 200 mg/ml stock solution stock (x 1000).
 * store at -20 in 1 ml aliquots.
 
 
-final concentration for E. coli should be 100-200 µg/ml
+final concentration for E. coli should be 200 µg/ml
 

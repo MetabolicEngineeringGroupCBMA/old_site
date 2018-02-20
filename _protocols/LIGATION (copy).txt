@@ -1,5 +1,6 @@
-﻿+ LIGATION
-PROTOCOL [EXP:true]
+---
+title: pYPKa cloning protocol
+---
 
 http://www.labtimes.org/labtimes/trick/tricks/2013_07.lasso
 

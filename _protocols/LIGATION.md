@@ -15,10 +15,11 @@ It is probably not necessary to add more enzyme even for a larger digestion.
 It also probably better not to make prolonged digestions as this might increase the risk for 
 damaging the vector from trace nuclease contamination.
 
-6  µL water 
-3  µL pYPKa miniprep
-1  µL 1X Buffer AjiI [link](https://www.thermofisher.com/order/catalog/product/ER1941)
-1  µL AjiI (5U/µL)
+- 6  µL water 
+- 3  µL pYPKa miniprep
+- 1  µL 1X Buffer AjiI [link](https://www.thermofisher.com/order/catalog/product/ER1941)
+- 1  µL AjiI (5U/µL)
+
 Incubate  5-15 min at 37C.
 Inactivate AjiI by incubation at 65 °C for 20 min.
 It is practical to do the above digestion in a PCR thermal cycler.
@@ -28,21 +29,21 @@ Put the digestion on ice immediately after the digestion has finished.
 
 mix the following on ice in the indicated order for each ligation reaction:
 
-5µL water
-2µL 5xLIGATION buffer
-0.5µL ligase
+- 5µL water
+- 2µL 5xLIGATION buffer
+- 0.5µL ligase
 
 for ten reactions the mix will be:
 
-55µL water
-22µL 5xLIGATION buffer
-5.5µL ligase (1 U/µL)
+- 55µL water
+- 22µL 5xLIGATION buffer
+- 5.5µL ligase (1 U/µL)
 
 Add the following in each tube (on ice):
 
-8µL Ligation mix
-1µL PCR product
-1µL digested pYPKa
+- 8µL Ligation mix
+- 1µL PCR product
+- 1µL digested pYPKa
 
 Ligation in room temperature for one hour or in the fridge over night or over a weekend seems to work well.
 Ligation at 37C for 10-15 min is used in many protocols. It is probably NOT necessary to inactivate the 

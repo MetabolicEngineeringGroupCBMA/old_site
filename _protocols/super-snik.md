@@ -1,8 +1,8 @@
 ---
-title: Snik-protokollet
+title: Low cost plasmid mini-prep from E.coli
 ---
 
-# Low cost plasmid mini-prep from E.coli (snik-protokollet från [TMB](http://www.tmb.lth.se))
+# Low cost plasmid mini-prep from E.coli (Snik-protokollet från [TMB](http://www.tmb.lth.se))
 
 updated 2018-03-02
 

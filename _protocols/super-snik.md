@@ -33,7 +33,7 @@ updated 2018-03-02
 
 13. Pour away the ethanol. Be sure to remove as much as possible.
 
-14. Dry pellet in speedvac for up to 5 min at 50°C or by letting tubes dry on the bench for 10-15 min.
+14. Dry  pellet in speedvac for up to 5 min at 50°C or by letting tubes dry on the bench for 10-15 min.
 
 15. Dissolve pellet in 50-100 µL Qiagen EB buffer ( 10 mM Tris-HCl pH 8.5) or Sigma Genelute Elution Solution (10 mM Tris-HCl, 1 mM EDTA, pH approx. 8.0) or standard TE (10 mM Tris-HCl pH 8.0, 0.1 mM EDTA)
 

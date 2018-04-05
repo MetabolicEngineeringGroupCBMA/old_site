@@ -118,3 +118,33 @@ See [here](http://bitesizebio.com/24/pcr-problems-try-an-additive/)
 and [here](http://bitesizebio.com/2592/better-than-betaine-pcr-additives-that-actually-work/)
 
 
+
+## Buffer
+
+Fermentas (now ThermoFisher) describe a buffer that works very well in our hands. The recipe is taken
+from this [website](https://www.thermofisher.com/order/catalog/product/B33).
+
+10x Taq Buffer with (NH4)2SO4 w/o MgCl2:
+• 750 mM Tris-HCl (pH 8.8 at 25°C)
+• 200 mM (NH4)2SO4
+• 0.1% (v/v) Tween 20
+
+This buffer can be prepared in this way (100 mL):
+
+1. Add 9.0855 g Tris-Base (MW 121.14) to about 75 mL of the purest available water and a magnetic stirrer bar.
+2. Set pH to 8.8 with concentrated HCl. Set the pH before the addition of the (NH4)2SO4.
+3. Add 2.6428 g (NH4)2SO4 (MW 132.14) to the solution and mix.
+4. Transfer to a 100mL volumetric flask and adjust the volume.
+5. Add 100µL or 90 mg [Tween 20](https://en.wikipedia.org/wiki/Polysorbate_20)
+6. Mix, aliquot and freeze. Autoclaving is not needed.
+
+This buffer has no MgCl2.
+
+
+## MgCl2
+
+Mix 2.0331 g MgCl2 (MgCl2x6H2O, MW 203.31g/mol) with 50 mL of the purest available water. The final concentration 
+is 200 mM. 
+
+
+

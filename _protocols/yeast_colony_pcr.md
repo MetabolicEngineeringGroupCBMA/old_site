@@ -37,11 +37,9 @@ The advantage of this protocol is that it is fast and simple, the disadvantage i
 
     It is best to use hotstart PCR, so turn the machine on and pause in the initial denaturation step.
 
+3. Using the tip of a yellow or white pipette tip, transfer a small amount of cells to the inside of a PCR tube. 
 
-
-3. Using the tip of a toothpick, transfer a small amount of cells to the inside of a PCR tube. 
-
-4. Microwave for 1-2 min at max power. 
+4. Microwave for 2 min at max power. 
 
 5. Place tubes on ice to cool down.
 
@@ -73,7 +71,10 @@ Commonly used PCR adjuvants are:
     0.8 mg/mL BSA
     [T4 Gene 32 Protein](http://www.sigmaaldrich.com/catalog/product/roche/t4gene32ro?lang=pt&region=PT)
 
-
 ### Note
 
-Colony PCR from yeast is a notoriously fickle protocol which can easily be seen by the many variations avaliable by searching the internet.  It seems many users have to tweak the protocol for it to work. Test the protocol with a positive and negative control if you can. This protocol is probably one of the quickest, but works best with short products. If this does not work, consider protocols involving NaOH or enzymatic degradation of the cell wall. Some protocols are available [here](http://openwetware.org/wiki/Yeast_Colony_PCR). 
+Colony PCR from yeast is a notoriously fickle protocol which can easily be seen by the many variations avaliable by searching the internet.
+It seems many users have to tweak the protocol for it to work. Test the protocol with a positive and negative control if you can. 
+This protocol is probably one of the quickest, but works best with short products.
+If this does not work, consider protocols involving NaOH or enzymatic degradation of the cell wall. 
+Some protocols are available [here](http://openwetware.org/wiki/Yeast_Colony_PCR).b

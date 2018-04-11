@@ -8,16 +8,16 @@ Adapted from this [protocol](http://theolb.readthedocs.org/en/latest/misc/frozen
 
 ### Material solutions and equipment
 
-* 1M [Lithium Acetate](https://en.wikipedia.org/wiki/Lithium_acetate) (sterile) (LiAC) 10.2 g in 100 ml dH20 and autoclave. 
+* 1M [Lithium Acetate](https://en.wikipedia.org/wiki/Lithium_acetate) (sterile) (LiAC) 10.2 g in 100ml dH20 and autoclave. 
 * 100mM Lithium Acetate (sterile)(Dilute the 1M with dH2O)
 * Glycerol (sterile)
 
 ### Method
 
 1. Day 1: Grow up your yeast strain in appropriate medium overnight. 
-If YPD medium is used, grow approximately 1 ml for every 100 ml intended to inoculate the next day. 
+If YPD medium is used, grow approximately 1ml for every 100ml intended to inoculate the next day. 
 If you are growing a yeast strain with a plasmid that needs auxotrophic selection, grow in appropriate 
-YNB based selection medium about 20 ml for every 100 ml intended to inoculate the next day. 
+YNB based selection medium about 20 ml for every 100ml intended to inoculate the next day. 
 Some yeast strains in selection media may take 2-3 days to reach saturation. 
 You should grow just to the point of saturation.
 

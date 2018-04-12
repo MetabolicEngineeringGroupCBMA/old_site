@@ -45,3 +45,5 @@ Mix well, use vortex if necessary.
 Put the carboard box into a styrofoam box and allow to freeze slowly in –80C. 
 The styrofoam box can be removed after the cells are frozen solid (~24h). 
 Unlike E. coli competent cells, quick freezing in liquid nitrogen will severely reduce their competency.
+
+These cells can be used according to [this](trafo_frozen_yeast.html) protocol.

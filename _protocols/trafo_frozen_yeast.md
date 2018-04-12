@@ -35,17 +35,14 @@ max speed of the microcentrifuge. Use one tube per transformation reaction.
 * 50 µL ssDNA
 * 34 µL DNA + water
 
-The PEG, LiAc and ssDNA can be combined to save time if you have many transformations. 
 Total volume should be 360 µL, It is usually enough to add 1 µL plasmid DNA and 33 µL of
-water for a normal circular plasmid DNA prepared using a miniprep kit.
-If you have many similar transformations, A master mix can be made, by leaving out your
-DNA and mixing the other three ingredients plus water. Such a mix should be vortexed
-lightly before being added to the cells.
+water for a normal circular plasmid prepared using a miniprep kit.
+If you have many similar transformations, A master mix (PEG, LiAc, ssDNA and water) can be made by leaving out your
+DNA. Such a mix should be vortexed lightly before being added to the cells.
 
 3. Resuspend the yeast cells in the mixture by vortexing well to remove any clumps.
 4. Heat shock in 42℃  water bath for 45 minutes.
 5. Spin down at 14,000 rpm or max speed for 30 s, remove supernatant with a micropipette.
-
 6. Add 100 µL of sterile water to the cells, resuspend by pipetting up and down with a P200 pipette
  and take out 10-20% of the cells to a fresh tube and save these cells in the fridge or on ice.
 Plate the rest of the cells on appropriate medium. Incubate plates at 30℃  for 2-4 days or

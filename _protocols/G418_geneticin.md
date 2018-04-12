@@ -12,3 +12,4 @@ The working solution is stored in 1mL aliquits marked with a capital ***"G"*** a
 
     Goldstein, A.L., McCusker, J.H., 1999. Three new dominant drug resistance cassettes for gene disruption in Saccharomyces cerevisiae. Yeast 15, 1541–1553.
 
+

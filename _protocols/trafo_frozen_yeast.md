@@ -6,17 +6,18 @@ adapted from [this](http://theolb.readthedocs.org/en/latest/misc/transformation-
 
 ### Material:
 
-* 1M Lithium Acetate: 10.2 g in 100 ml ddH2O – autoclave
+* 1M Lithium Acetate(MW 65.98 g/mol): 10.2 g in 100 ml ddH2O – autoclaved
 * 50% PEG: Dissolve 50g in 30ml ddH2O and stir, bring total volume up to 100ml and heat and stir to combine.
-Filter sterilize (this might take about 10- 20 min). Bubbles will disappear once you filter sterilize.
-* ssDNA: Single-stranded salmon sperm carrier DNA. We do not sonicate this DNA.  
-It must be boiled before use, but you can refreeze 3 times after the initial boil
+Filter sterilize (this might take about 10-20 min). Bubbles will disappear once you filter sterilize.
+* ssDNA: Single-stranded salmon sperm carrier DNA. We do not sonicate this DNA.
+It must be boiled before use, but you can refreeze 3 times after the initial boil (if you keep it on ice at all times)
 before you need to boil it again.  Keep a few tubes in your own box for you personal use.
 * petri dishes with solid medium for spreading transformants
 * 95-99% ethanol with flaming glass spreader
 
 ### Equipment:
 * microcentrifuge
+* 42℃  water bath
 * cell spreader or glass rod
 * containers for ethanol
 * P1000 pipette
@@ -26,15 +27,17 @@ before you need to boil it again.  Keep a few tubes in your own box for you pers
 
 ### Method
 
-1. Spin down 100ul frozen competent cells from the –80C freezer 30 s at ~14,000 rpm or
-max speed of the microcentrifuge.  
-Use one tube per transformation.
+1. Spin down 100ul frozen competent cells from the –80°C freezer 30 s at ~14,000 rpm or
+max speed of the microcentrifuge. Use one tube per transformation reaction.
 
 2. Remove supernatant with a pipette and add the following in order.
 * 240ul  50% PEG
 * 36ul 1M LiAc
 * 50ul ssDNA
 * 34ul DNA + water
+
+The PEG, LiAc and ssDNA can be combined to save time if you have many transformations to do.
+
 Total volume should be 360 uL, It is usually enough to add 1 µL plasmid DNA and 33 µL of
 water for a normal circular plasmid DNA prepared using a miniprep kit.
 If you have many similar transformations, A master mix can be made, by leaving out your
@@ -43,7 +46,7 @@ lightly before being added to the cells.
 
 3. Resuspend the yeast cells in the mixture by vortexing well to remove any clumps.
 4. Heat shock in 42℃  water bath for 45 minutes.
-5. Spin down at 14,000 rpm or max speed for 30 s, remove supernatant.
+5. Spin down at 14,000 rpm or max speed for 30 s, remove supernatant with a micropipette.
 
 6. Add 100µL of sterile water to the cells, resuspend by pipetting up and down with a P200 pipette
  and take out 10-20% of the cells to a fresh tube and save these cells in the fridge or on ice.

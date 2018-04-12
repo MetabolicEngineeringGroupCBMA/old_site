@@ -21,7 +21,7 @@ YNB based selection medium about 20 ml for every 100 ml intended to inoculate th
 Some yeast strains in selection media may take 2-3 days to reach saturation. 
 You should grow just to the point of saturation.
 
-2. Day 2: Innoculate for example 250 mL YPD which is enough for about every seventy-five 100uL aliquots 
+2. Day 2: Innoculate for example 250 mL YPD which is enough for about seventy-five 100 µL aliquots 
 of frozen competent cells. Scale up as needed. Inoculate to an initial OD640 to about 0.5 * 1E7 cfu/mL. 
 The releationship between OD640 and cfu/mL depends very much on both yeast strain used and type of spectrophotometer. 
 If you use a [GENESYS20](http://www.used-line.com/pictures/80/10356580_2.jpg) spectrophotometer and a 
@@ -31,17 +31,17 @@ This takes about four hours at 30C for CEN.PK, but may take longer for other str
 
 3. Spin down cells (? g for 5 min)
 
-4. Resuspend in 0.4 volumes of starting volume (i.e 40 ml if you grew up 100 mL culture) of a 100mM solution of LiAC. 
+4. Resuspend in 0.4 volumes of starting volume (i.e 40 ml if you grew up 100 mL culture) of a 100 mM solution of LiAC. 
 Mix well, use vortex if necessary.
 
 5. Spin down cells (? g for 5 min)
 
-6. Resuspend in 0.2 volumes of starting volume (i.e 20 ml if you grew up 100 mL culture) of a 100mM solution of LiAC. 
+6. Resuspend in 0.2 volumes of starting volume (i.e 20 ml if you grew up 100 mL culture) of a 100 mM solution of LiAC. 
 Mix well, use vortex if necessary.
 
-7. Spin down a final time and resuspend cells in 100mM LiAC with 15% glycerol to a final volume of 0.03 of your starting volume.
+7. Spin down a final time and resuspend cells in 100 mM LiAC with 15% glycerol to a final volume of 0.03 (i.e 3 ml if you grew up 100 mL culture) of your starting volume.
 
-8. Dispense the cells in 100µL aliquots in eppendorf tubes and put cells into a cardboard box.
+8. Dispense the cells in 100 µL aliquots in eppendorf tubes and put cells into a cardboard box.
 Put the carboard box into a styrofoam box and allow to freeze slowly in –80C. 
 The styrofoam box can be removed after the cells are frozen solid (~24h). 
 Unlike E. coli competent cells, quick freezing in liquid nitrogen will severely reduce their competency.

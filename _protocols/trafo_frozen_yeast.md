@@ -2,7 +2,8 @@
 title: Transformation of Frozen Competent Yeast
 ---
 
-adapted from [this](http://theolb.readthedocs.org/en/latest/misc/transformation-of-frozen-saccharomyces-cerevisiae.html?highlight=yeast) protocol.
+This protocol describe yeast transformation using frozen cells prepared according to [this](trafo_prepare_frozen_competent_yeast.html) protocol.
+Adapted from [this](http://theolb.readthedocs.org/en/latest/misc/transformation-of-frozen-saccharomyces-cerevisiae.html?highlight=yeast) protocol.
 
 ### Material:
 

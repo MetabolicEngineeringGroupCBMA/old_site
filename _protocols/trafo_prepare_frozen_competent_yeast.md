@@ -8,15 +8,14 @@ Adapted from this [protocol](http://theolb.readthedocs.org/en/latest/misc/frozen
 
 ### Material solutions and equipment
 
-* 1M [Lithium Acetate](https://en.wikipedia.org/wiki/Lithium_acetate) (sterile) (LiAC) 10.2 g in 100 ml dH20 and autoclave. 
+* 1M [Lithium Acetate](https://en.wikipedia.org/wiki/Lithium_acetate) (sterile) (LiAc) 10.2 g in 100 ml dH20 and autoclave. 
 * 100mM Lithium Acetate (sterile)(Dilute the 1M with dH2O)
 * Glycerol (sterile)
 
 ### Method
 
 1. Day 1: Grow up your yeast strain in the appropriate medium overnight.
- 
-If YPD medium is used, grow 2 ml for every 100 ml intended to inoculate the next day. 
+ If YPD medium is used, grow 2 ml for every 100 ml intended to inoculate the next day. 
 If you are growing a yeast strain with a plasmid that needs auxotrophic selection, grow in appropriate 
 YNB based selection medium about 20 ml for every 100 ml intended to inoculate the next day. 
 Some yeast strains in selection media may take 2-3 days to reach saturation. 
@@ -32,15 +31,15 @@ This takes about four hours at 30°C for CEN.PK, but may take longer for other s
 
 3. Spin down cells (? g for 5 min), pour off the supernatant. 
 
-4. Resuspend in 40% of starting culture volume (i.e 100 ml if you grew up 250 mL culture) of a 100 mM solution of LiAC. 
+4. Resuspend in 40% of starting culture volume (i.e 100 ml if you grew up 250 mL culture) of a 100 mM solution of LiAc. 
 Mix well, use vortex if necessary.
 
 5. Spin down cells (? g for 5 min), pour off the supernatant.
 
-6. Resuspend in 20% volumes of starting culture volume (i.e 50 ml if you grew up 250 mL culture) of a 100 mM solution of LiAC. 
+6. Resuspend in 20% volumes of starting culture volume (i.e 50 ml if you grew up 250 mL culture) of a 100 mM solution of LiAc. 
 Mix well, use vortex if necessary.
 
-7. Spin down a final time and resuspend cells in 100 mM LiAC with 15% glycerol to a final volume of 3% of starting culture volume
+7. Spin down a final time and resuspend cells in 100 mM LiAc with 15% glycerol to a final volume of 3% of starting culture volume
 (i.e 7.5 ml if you grew up 250 mL culture).
 
 8. Dispense the cells in 100 µL aliquots in eppendorf tubes and put cells into a cardboard box.

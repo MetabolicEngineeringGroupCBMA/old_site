@@ -9,7 +9,7 @@ Adapted from this [protocol](http://theolb.readthedocs.org/en/latest/misc/frozen
 ### Material solutions and equipment
 
 * 1M [Lithium Acetate](https://en.wikipedia.org/wiki/Lithium_acetate) (sterile) (LiAc) 10.2 g in 100 ml dH20 and autoclave. 
-* 100mM Lithium Acetate (sterile)(Dilute the 1M with dH2O)
+* 100 mM Lithium Acetate (sterile)(Dilute the 1M with ddH2O)
 * Glycerol (sterile)
 
 ### Method

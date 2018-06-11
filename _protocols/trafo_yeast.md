@@ -69,11 +69,11 @@ d) Transformation efficiency (transformants/ µg plasmid/108 cells) remains cons
   Number of Transformations
 
 Reagents
-PEG 3500 50% w/v                        240 µl
-LiAc 1.0 M                              36 µl
-Boiled SS-carrier DNA                   50 µl
-Plasmid DNA plus Water                  34 µl
-Total                                   360 µl
+- PEG 3500 50% w/v                        240 µl
+- LiAc 1.0 M                              36 µl
+- Boiled SS-carrier DNA                   50 µl
+- Plasmid DNA plus Water                  34 µl
+- Total                                   360 µl
 
 10. Add 360 µl of Transformation Mix to each transformation tube and resuspend the cells by vortex mixing vigorously.
 

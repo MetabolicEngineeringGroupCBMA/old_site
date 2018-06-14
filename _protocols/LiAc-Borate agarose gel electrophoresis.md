@@ -8,8 +8,8 @@ Lithium acetate-borate buffer is superior to bot TAE and TBE for agarose gel ele
 The conductivity is lower resulting in cooler runs at the same voltage or faster runs at similar temperature and higher voltage.
 
 50x LAB buffer (1L):
-- lithium acetate       33 g   (250 mM)
-- boric acid            31 g   (250 mM)
+- lithium acetate       33 g   (0.5M)
+- boric acid            31 g   (0.5M)
 - ddH2O                 to 1 L
 Make sure the pH is between 6.5 – 7.0, if not add boric acid or lithium acetate.
 

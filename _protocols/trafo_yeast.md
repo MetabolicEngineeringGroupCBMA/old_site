@@ -68,7 +68,7 @@ d) Transformation efficiency (transformants/ µg plasmid/108 cells) remains cons
   Keep the Transformation Mix in ice/water.
   Number of Transformations
 
-Reagents
+Reagents:
 - PEG 3500 50% w/v                        240 µl
 - LiAc 1.0 M                              36 µl
 - Boiled SS-carrier DNA                   50 µl
@@ -87,12 +87,6 @@ Reagents
 
 
 
-grow cells from OD 0.4 to 1.6
-aliquot 2 mL cells in each 2 mL eppendorf tube
-spin 30s
-remove supernatant
-add 1 mL water, resuspend cells
-spin 30 s
 
 
 

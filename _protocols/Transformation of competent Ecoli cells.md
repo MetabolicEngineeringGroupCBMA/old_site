@@ -17,3 +17,4 @@ title: Transforming Frozen Calcium Competent or SEM Cells
 7. centrifuge >12000g during 30 s or at lower speed (~5000 rpm for 2-3 min). 
 
 8. discard ~900 µL of the supernatant, resuspend pellet with the remainig spupernatant and plate cells.
+

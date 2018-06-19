@@ -1,5 +1,5 @@
 ---
-title: Transforming Frozen Calcium Competent Cells 
+title: Transforming Frozen Calcium Competent or SEM Cells 
 ---
 
 1. Let cells defrost on ice (~15 min).

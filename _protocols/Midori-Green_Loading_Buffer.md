@@ -1,8 +1,7 @@
 ---
-title: DNA sequencing
+title: Midori-Green Loading Buffer (LBx2wMidori)
 ---
 
-### Midori-Green Loading Buffer (LBx2wMidori)
 
 Midori green is one of many alternatives to EtBr. Midori Green is sold by [Nippon genetics](https://www.nippongenetics.eu/en/product/midori-green-advance).
 This stain is compatible with blue-LED transilluminators which is an advantage to use if DNA is to be cut out of the gel due to the lower 

@@ -1,7 +1,0 @@
-﻿++ LB-kan
-
-I use 50 µg/mL for the pET vectors
-
-10mg/mL
-
-500/200 = 2.5

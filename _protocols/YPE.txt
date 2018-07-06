@@ -1,4 +1,0 @@
-﻿+ YPE
-
-YPEthanol 
-as YPD but 2% ethanol instead of glucose

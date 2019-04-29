@@ -50,11 +50,16 @@ Björn Johansson, PI
 
 
 ![MariaJoãoMogadouroLopes]({{ site.url }}/people/MariaJoãoMogadouroLopes.jpg)
+Maria João Mogadouro Lopes, 2019
+
+
 
 
 ## Former members
 
 ![MiguelPacheco]({{ site.url }}/people/MiguelPacheco.jpg)
+
+Miguel Pacheco, MSc
 
 ![Gabriela Ribeiro]({{ site.url }}/people/GabrielaRibeiro.jpg)
 

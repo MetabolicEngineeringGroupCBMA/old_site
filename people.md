@@ -5,6 +5,10 @@ title: People
 
 ## Current members
 
+![TatianaPozdniakova]({{ site.url }}/people/Tatiana-Pozdniakova.jpg)
+
+TatianaPozdniakova, Post-Doc
+
 ![FlavioAzevedo]({{ site.url }}/people/FlavioAzevedo.jpg)
 
 Flavio de Azevedo, PhD student
@@ -13,7 +17,7 @@ Flavio de Azevedo, PhD student
 
 ![PauloSilva]({{ site.url }}/people/PauloSilva.jpg)
 
-Paulo Silva, Master student in collaboration with [Dr. Rui Oliveira](https://sites.google.com/site/personalwebpageofruioliveira/)
+Paulo Silva, PhD student in collaboration with [Dr. Rui Oliveira](https://sites.google.com/site/personalwebpageofruioliveira/)
 
 [Google Scholar](https://scholar.google.com/citations?hl=pt-PT&user=YMZQjhEAAAAJ&view_op=list_works&sortby=pubdate)
 
@@ -23,11 +27,9 @@ Humberto Pereira, Master student
 
 [Google Scholar](https://scholar.google.pt/citations?hl=en&user=v2htOOsAAAAJ&view_op=list_works&sortby=pubdate)
 
-![MiguelPacheco]({{ site.url }}/people/MiguelPacheco.jpg)
 
-Miguel Pacheco, Master student
 
-[Google Scholar](https://scholar.google.com/citations?hl=pt-PT&user=63Uzl8wAAAAJ&view_op=list_works&sortby=pubdate)
+
 
 ![BjornJohansson]({{ site.url }}/people/BjornJohanssonWhiteBoard.jpg)
 
@@ -43,7 +45,16 @@ Björn Johansson, PI
 - [My private blog](http://ochsavidare.blogspot.pt/) In Swe or Eng with a broad range of topics, not necessarily science.
 - [runkeeper](https://runkeeper.com/user/bjornfjohansson)
 
+
+## Eight week projects "UC Projeto"
+
+
+![MariaJoãoMogadouroLopes]({{ site.url }}/people/MariaJoãoMogadouroLopes.jpg)
+
+
 ## Former members
+
+![MiguelPacheco]({{ site.url }}/people/MiguelPacheco.jpg)
 
 ![Gabriela Ribeiro]({{ site.url }}/people/GabrielaRibeiro.jpg)
 

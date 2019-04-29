@@ -50,6 +50,7 @@ Björn Johansson, PI
 
 
 ![MariaJoãoMogadouroLopes]({{ site.url }}/people/MariaJoãoMogadouroLopes.jpg)
+
 Maria João Mogadouro Lopes, 2019
 
 

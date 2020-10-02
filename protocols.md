@@ -20,3 +20,4 @@ Primer sequences are kept in this google [doc](https://docs.google.com/document/
 - [Taq]()
 - [PennStateLadder]()
 - [Ultrapure water]()
+- [Yeast Genome Deletion Primers and PCR product Sizes](https://docs.google.com/spreadsheets/d/1pVlMkCKb6iX-w-2Q3OP2iP0UMH72PEHf9TuGM4SdRZk)

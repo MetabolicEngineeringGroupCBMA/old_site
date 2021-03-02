@@ -21,10 +21,11 @@ This is fundamentally the conversion of sugar substrates like
 [Xylose](https://en.wikipedia.org/wiki/Xylose)
 into [fatty acids](https://en.wikipedia.org/wiki/Fatty_acid).
 
-This process is important in nature, since fatty acids are apart of fundamental structures such as cell membranes
-and also serve as efficient energy storage for many cells and organisms.
+This process is important in nature, since fatty acids are importan parts of
+fundamental structures such as cell membranes,
+but also serve as efficient energy storage for many cells and organisms.
 
-The process could also potentially be used for the green production of fuels
+The process could potentially be used for the green production of fuels
 and other chemicals.
 
 

@@ -47,10 +47,15 @@ metabolic pathways for a given number of genes compared to other methods. It rel
 and another for terminators.
 
 
+![ypk](yeast_pathway_kit_figure.png)
+
+
+
 We have developed a bioinformatic tool called `pydna` that allow cloning simulations to be expressed as `Python` code
 in `Jupyter` notebooks.
 
-![ypk](yeast_pathway_kit_figure.png)
+![pydna](saat_cloning_animation.gif)
+
 
 
 ## Open source software:

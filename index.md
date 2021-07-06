@@ -5,7 +5,6 @@ layout: default
 Welcome, We are the MEC research group,
 a part of the research center
 [Centro de Biologia Molecular e Ambiental (CBMA)](https://www.google.pt/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwjhgeWevKLLAhUIQBoKHQfcDcAQFggbMAA&url=http%3A%2F%2Fcbma.bio.uminho.pt%2F&usg=AFQjCNERIO6tvOxPHIgk4DaE4Y5LivlEXQ&sig2=8-94NSGguCRjdxnoOm0cYQ&bvm=bv.115339255,d.ZWU).
-
 We are located in the [Department of Biology](https://goo.gl/maps/JyphLrwBYejffwTx5),
 [University of Minho](https://www.uminho.pt/EN) in the ancient city of
 [Braga](https://en.wikipedia.org/wiki/Braga),
@@ -38,13 +37,18 @@ and other chemicals in a future [green economy](https://en.wikipedia.org/wiki/Gr
 
 ## Tools
 
+
 As the field of metabolic engineering grow more complex, there is a need for new tools to solve
-different aspects of the process to increase throughput and
+different aspects of the overall process to increase throughput and maintain precision.
 
 
-Methods for engineering and transferring entire metabolic pathways in and between *S. cerevisiae* strains.
-We have developed a method we call the Yeast Pathway Kit, that produces short metabolic pathways for a given
-number of genes compared to other methods.
+We have developed a metabolic pathway assembly method we call the Yeast Pathway Kit, that produces short
+metabolic pathways for a given number of genes compared to other methods. It relies on one library of promoters
+and another for terminators.
+
+
+We have developed a bioinformatic tool called `pydna` that allow cloning simulations to be expressed as `Python` code
+in `Jupyter` notebooks.
 
 ![ypk](yeast_pathway_kit_figure.png)
 

@@ -10,6 +10,8 @@ We are located in the [Department of Biology](https://goo.gl/maps/JyphLrwBYejffw
 [Braga](https://en.wikipedia.org/wiki/Braga),
 Portugal.
 
+![life_of_Yeast](The_life_of_Yeast_cropped.gif)
+
 ## Our focus
 
 Our interest is metabolic engineering of baker's yeast

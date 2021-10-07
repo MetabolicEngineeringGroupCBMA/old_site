@@ -24,4 +24,4 @@ Primer sequences are kept in this google [doc](https://docs.google.com/document/
 
 
 
-(*) requires access, ask for this by someone in the lab.
+(*) require access, ask for this by someone in the lab.

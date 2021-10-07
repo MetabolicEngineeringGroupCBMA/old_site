@@ -7,6 +7,8 @@ title: Software
 
 **pydna** is a python package that provide functions and classes to work with double stranded DNA. See [Github repository](https://github.com/BjornFJohansson/pydna) for more information.
 
+
+
 ----
 
 
@@ -16,6 +18,7 @@ title: Software
 
 
  See [Github repository](https://github.com/BjornFJohansson/seguid_calculator) for more information.
+
 
 ----
 
@@ -28,19 +31,24 @@ See this [link](http://bjornfjohansson.pythonanywhere.com) for more information.
 ----
 
 
-
-
 **mecplugins** is a collection of plugins for the for the personal wiki software [wikidPad](http://wikidpad.sourceforge.net/).
 
 
 ![wikidpad](wp.png)
 
 
-
 These plugins extends wikidPad with functions for molecular biology experiment design and electronic notebook keeping. See the videos below:
 
 <iframe width="854" height="480" src="https://www.youtube.com/embed/TrhoIwiYYDU?ecver=1" frameborder="0" allowfullscreen></iframe>
+
+
 <iframe width="854" height="480" src="https://www.youtube.com/embed/8zqKCJgP4so?ecver=1" frameborder="0" allowfullscreen></iframe>
+
+
 <iframe width="854" height="480" src="https://www.youtube.com/embed/y5vkL9WgglY?ecver=1" frameborder="0" allowfullscreen></iframe>
+
+
 <iframe width="854" height="480" src="https://www.youtube.com/embed/6pNSM2sU7_8?ecver=1" frameborder="0" allowfullscreen></iframe>
+
+
 <iframe width="854" height="480" src="https://www.youtube.com/embed/ujMb2A3PJpE?ecver=1" frameborder="0" allowfullscreen></iframe>

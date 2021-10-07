@@ -64,9 +64,9 @@ in `Jupyter` notebooks.
 
 **pydna** is a python library designed for simulation/documentation of cloning and DNA assembly.
 
-**seguid calculator** A small GUI for calculating [SEGUID checksum](http://precedings.nature.com/documents/278/version/1), mostly used for teaching.
+**seguid calculator** A small GUI for calculating [SEGUID checksum](https://www.nature.com/articles/npre.2007.278.1), mostly used for teaching.
 
-**web pcr** PCR simulation [online](http://webpcr.appspot.com/)!
+**web pcr** PCR simulation [online](http://webpcr.appspot.com)!
 
 **mecplugins** A set of [WikidPad](http://wikidpad.sourceforge.net/) plugins for molecular biology
 

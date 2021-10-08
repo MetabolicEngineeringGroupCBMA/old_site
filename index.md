@@ -16,7 +16,7 @@ Portugal.
 
 Our interest is metabolic engineering of baker's yeast
 [*Saccharomyces cerevisiae*](https://en.wikipedia.org/wiki/Saccharomyces_cerevisiae)
-for consumption of new types of substrates and production of new biotechnologically interesting molecules.
+for consumption of new types of substrates and production of new biotechnologically interesting molecules. You can see this yeast growing under a microscope in the image above.
 
 
 Specifically, we work on expanding the consumption of for efficient metabolism of new types of sugars as
@@ -24,9 +24,10 @@ Specifically, we work on expanding the consumption of for efficient metabolism o
 [fatty acids](https://en.wikipedia.org/wiki/Fatty_acid) and derived lipids.
 
 
-This process is important in nature, since fatty acids are important parts of
-fundamental structures such as cell membranes,
-but also serve as efficient energy storage for many cells and organisms.
+![fa](fa.png)
+
+
+This process is important in nature, since fatty acids make up significant parts of fundamental structures such as cell membranes, but also serve as efficient energy storage for many cells and organisms.
 
 
 The process could potentially be used for the green production of fuels
@@ -44,17 +45,17 @@ As the field of metabolic engineering grow more complex, there is a need for new
 different aspects of the overall process to increase throughput and maintain precision.
 
 
-We have developed a metabolic pathway assembly method we call the Yeast Pathway Kit, that produces short
+We have developed a metabolic pathway assembly method we call the **Yeast Pathway Kit**, that produces short
 metabolic pathways for a given number of genes compared to other methods. It relies on one library of promoters
-and another for terminators.
+and another for terminators. Pathways are joined together by first making a set of single gene expression vectors by
+homologous recombination. The promoter-gene-terminator fragments (or transcriptional units) can then be stitched together by a second round of homologous recombination
 
 
 ![ypk](yeast_pathway_kit_figure.png)
 
 
 
-We have developed a bioinformatic tool called `pydna` that allow cloning simulations to be expressed as `Python` code
-in `Jupyter` notebooks.
+We have developed a bioinformatic tool called `pydna` that allow cloning simulations to be expressed as `Python` code. This allows for "programming with DNA", expressing cloning strategies as a computer program. This produces a verifiable, complete description of a cloning strategy. This is especially powerful in combination with `Jupyter` notebooks to provide both code and a readable document.
 
 ![pydna](saat_cloning_animation.gif)
 

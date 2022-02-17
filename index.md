@@ -10,11 +10,10 @@ We are located in the [Department of Biology](https://goo.gl/maps/JyphLrwBYejffw
 [Braga](https://en.wikipedia.org/wiki/Braga),
 Portugal.
 
-<center>
-    ![life_of_Yeast](The_life_of_Yeast_cropped.gif)
-</center>
+![life_of_Yeast](The_life_of_Yeast_cropped.gif | width=100%)
 
 
+![life_of_Yeast](The_life_of_Yeast_cropped.gif)
 
 ## Our focus
 

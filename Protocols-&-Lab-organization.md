@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Protocols
+title: Protocols & Lab organization
 ---
 
 We keep our public protocols in this [wiki](https://github.com/MetabolicEngineeringGroupCBMA/MetabolicEngineeringGroupCBMA.github.io/wiki).

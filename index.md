@@ -55,20 +55,8 @@ homologous recombination. The promoter-gene-terminator fragments (or transcripti
 
 
 
-We have developed a bioinformatic tool called `pydna` that allow cloning simulations to be expressed as `Python` code. This allows for "programming with DNA", expressing cloning strategies as a computer program. This produces a verifiable, complete description of a cloning strategy. This is especially powerful in combination with `Jupyter` notebooks to provide both code and a readable document.
+We have developed a bioinformatic tool called `pydna` that allow cloning simulations to be expressed as `Python` code.
+This allows for "programming with DNA", expressing cloning strategies as a computer program. This produces a verifiable, complete
+description of a cloning strategy. This is especially powerful in combination with `Jupyter` notebooks to provide both code and a readable document.
 
 ![pydna](saat_cloning_animation.gif)
-
-
-
-## Open source software:
-
-**pydna** is a python library designed for simulation/documentation of cloning and DNA assembly.
-
-**seguid calculator** A small GUI for calculating [SEGUID checksum](https://www.nature.com/articles/npre.2007.278.1), mostly used for teaching.
-
-**web pcr** PCR simulation [online](http://webpcr.appspot.com)!
-
-**mecplugins** A set of [WikidPad](http://wikidpad.sourceforge.net/) plugins for molecular biology
-
-Look at our [software](software.html) page for further info.

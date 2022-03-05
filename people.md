@@ -7,15 +7,15 @@ title: People
 
 ![TatianaPozdniakova]({{ site.url }}/people/Tatiana-Pozdniakova.jpg)
 
-TatianaPozdniakova, Post-Doc
+### TatianaPozdniakova, Post-Doc
 
 ![FlavioAzevedo]({{ site.url }}/people/FlavioAzevedo.jpg)
 
-Flavio de Azevedo, PhD student
+### Flavio de Azevedo, PhD student
 
 [Google Scholar](https://scholar.google.pt/citations?hl=en&user=lWjZURwAAAAJ&view_op=list_works&sortby=pubdate)
 
-![PauloSilva]({{ site.url }}/people/PauloSilva.jpg)
+### ![PauloSilva]({{ site.url }}/people/PauloSilva.jpg)
 
 Paulo Silva, PhD student in collaboration with [Dr. Rui Oliveira](https://sites.google.com/site/personalwebpageofruioliveira/)
 
@@ -23,15 +23,12 @@ Paulo Silva, PhD student in collaboration with [Dr. Rui Oliveira](https://sites.
 
 ![HumbertoPereira]({{ site.url }}/people/HumbertoPereira.jpg)
 
-Humberto Pereira, Master student
+### Humberto Pereira, Master student
 
 [Google Scholar](https://scholar.google.pt/citations?hl=en&user=v2htOOsAAAAJ&view_op=list_works&sortby=pubdate)
 
 
-
-
-
-![BjornJohansson]({{ site.url }}/people/BjornJohanssonWhiteBoard.jpg)
+### ![BjornJohansson]({{ site.url }}/people/BjornJohanssonWhiteBoard.jpg)
 
 Björn Johansson, PI
 
@@ -98,5 +95,3 @@ Juliana Cabrini Carmello, PhD student
 Ana Poveda, PhD
 
 [Google Scholar](https://scholar.google.com.br/citations?hl=pt-BR&user=e5EDaQ0AAAAJ&view_op=list_works&sortby=pubdate)
-
-

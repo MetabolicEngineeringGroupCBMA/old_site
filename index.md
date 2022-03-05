@@ -67,13 +67,13 @@ homologous recombination (see the figure below):
 
 ### pydna (or Why Is So Much Cloning Documentation Wrong?)
 
-We have developed a bioinformatics tool called `pydna` that allow vector construction
-experiments to be expressed in `Python` code.
+We have developed a bioinformatics tool called [`pydna`](https://github.com/BjornFJohansson/pydna#-pydna) that allow vector construction
+experiments to be expressed in [`Python`](https://www.python.org) code.
 This allows for "programming with DNA", expressing cloning strategies as a computer
 program. This produces a verifiable, complete description of a cloning strategy.
 This is especially powerful in combination with `Jupyter` notebooks to provide
 both code and a readable document. See our Anaconda Maker
-Series [blog post](https://www.anaconda.com/blog/why-is-so-much-cloning-documentation-wrong)
+Series [blog post](https://www.anaconda.com/blog/why-is-so-much-cloning-documentation-wrong).
 
 
 ![pydna](saat_cloning_animation.gif)

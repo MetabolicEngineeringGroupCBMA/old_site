@@ -9,6 +9,8 @@ title: People
 
 ### Tatiana Pozdniakova, Post-Doc
 
+[CIÊNCIA ID](https://www.ciencia-id.pt) `471C-0187-2E29`
+
 ![FlavioAzevedo]({{ site.url }}/people/FlavioAzevedo.jpg)
 
 ### Flavio de Azevedo, PhD student
@@ -19,6 +21,8 @@ title: People
 
 ### Paulo Silva, PhD student in collaboration with [Dr. Rui Oliveira](https://sites.google.com/site/personalwebpageofruioliveira/)
 
+[CIÊNCIA ID](https://www.ciencia-id.pt) `021F-4CDA-2630`
+
 [Google Scholar](https://scholar.google.com/citations?hl=pt-PT&user=YMZQjhEAAAAJ&view_op=list_works&sortby=pubdate)
 
 ![HumbertoPereira]({{ site.url }}/people/HumbertoPereira.jpg)
@@ -27,11 +31,13 @@ title: People
 
 [Google Scholar](https://scholar.google.pt/citations?hl=en&user=v2htOOsAAAAJ&view_op=list_works&sortby=pubdate)
 
+[CIÊNCIA ID](https://www.ciencia-id.pt) `8E15-710B-3953`
 
 ![BjornJohansson]({{ site.url }}/people/BjornJohanssonWhiteBoard.jpg)
 
 ### Björn Johansson, PI
 
+- [CIÊNCIA ID](https://www.ciencia-id.pt) `B710-97FC-DACA`
 - FCT Public Key (chave pública) J005395QL1Q
 - [Github](https://github.com/BjornFJohansson)
 - [Google Scholar](https://scholar.google.pt/citations?hl=en&user=7AiEuJ4AAAAJ&view_op=list_works&sortby=pubdate)
@@ -39,7 +45,7 @@ title: People
 - [ResearcherID](http://www.researcherid.com/rid/A-3523-2012)
 - [ResearchGate](https://www.researchgate.net/profile/Bjoern_Johansson4)
 - [Stackoverflow](http://stackoverflow.com/users/2080368/bj%C3%B6rn-johansson)
-- [My private blog](http://ochsavidare.blogspot.pt/) In Swe or Eng with a broad range of topics, not necessarily science.
+- [My private blog](http://ochsavidare.blogspot.pt/) In Swedish or English, broad range of topics, not necessarily science.
 - [runkeeper](https://runkeeper.com/user/bjornfjohansson)
 
 

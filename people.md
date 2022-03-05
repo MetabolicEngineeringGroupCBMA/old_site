@@ -7,7 +7,7 @@ title: People
 
 ![TatianaPozdniakova]({{ site.url }}/people/Tatiana-Pozdniakova.jpg)
 
-### TatianaPozdniakova, Post-Doc
+### Tatiana Pozdniakova, Post-Doc
 
 ![FlavioAzevedo]({{ site.url }}/people/FlavioAzevedo.jpg)
 
@@ -15,22 +15,22 @@ title: People
 
 [Google Scholar](https://scholar.google.pt/citations?hl=en&user=lWjZURwAAAAJ&view_op=list_works&sortby=pubdate)
 
-### ![PauloSilva]({{ site.url }}/people/PauloSilva.jpg)
+![PauloSilva]({{ site.url }}/people/PauloSilva.jpg)
 
-Paulo Silva, PhD student in collaboration with [Dr. Rui Oliveira](https://sites.google.com/site/personalwebpageofruioliveira/)
+### Paulo Silva, PhD student in collaboration with [Dr. Rui Oliveira](https://sites.google.com/site/personalwebpageofruioliveira/)
 
 [Google Scholar](https://scholar.google.com/citations?hl=pt-PT&user=YMZQjhEAAAAJ&view_op=list_works&sortby=pubdate)
 
 ![HumbertoPereira]({{ site.url }}/people/HumbertoPereira.jpg)
 
-### Humberto Pereira, Master student
+### Humberto Pereira, PhD student
 
 [Google Scholar](https://scholar.google.pt/citations?hl=en&user=v2htOOsAAAAJ&view_op=list_works&sortby=pubdate)
 
 
-### ![BjornJohansson]({{ site.url }}/people/BjornJohanssonWhiteBoard.jpg)
+![BjornJohansson]({{ site.url }}/people/BjornJohanssonWhiteBoard.jpg)
 
-Björn Johansson, PI
+### Björn Johansson, PI
 
 - FCT Public Key (chave pública) J005395QL1Q
 - [Github](https://github.com/BjornFJohansson)

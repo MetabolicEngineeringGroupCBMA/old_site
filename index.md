@@ -16,10 +16,13 @@ Portugal.
 
 Our interest is metabolic engineering of baker's yeast
 [*Saccharomyces cerevisiae*](https://en.wikipedia.org/wiki/Saccharomyces_cerevisiae)
-for consumption of new types of substrates and production of new biotechnologically interesting molecules. You can see this yeast growing under a microscope in the image above.
+for consumption of new types of substrates and
+production of new biotechnologically interesting molecules.
+You can see this yeast growing under a microscope in the animated image above.
 
 
-Specifically, we work on expanding the consumption of for efficient metabolism of new types of sugars as
+Specifically, we work on expanding the consumption of for efficient metabolism
+of new types of sugars as
 [D-xylose](https://en.wikipedia.org/wiki/Xylose) combined with biosynthesis of
 [fatty acids](https://en.wikipedia.org/wiki/Fatty_acid) and derived lipids.
 
@@ -27,7 +30,9 @@ Specifically, we work on expanding the consumption of for efficient metabolism o
 ![fa](fa.png)
 
 
-This process is important in nature, since fatty acids make up significant parts of fundamental structures such as cell membranes, but also serve as efficient energy storage for many cells and organisms.
+This process is important in nature, since fatty acids make up significant
+parts of fundamental structures such as cell membranes, but also serve as
+efficient energy storage for many cells and organisms.
 
 
 The process could potentially be used for the green production of fuels
@@ -38,25 +43,37 @@ and other chemicals in a future [green economy](https://en.wikipedia.org/wiki/Gr
 
 
 
-## Tools
+## Our Tools
 
 
-As the field of metabolic engineering grow more complex, there is a need for new tools to solve
-different aspects of the overall process to increase throughput and maintain precision.
+As the field of metabolic engineering grow more complex, there is a need for
+new tools to solve different aspects of the overall process to increase
+throughput and maintain precision.
 
 
-We have developed a metabolic pathway assembly method we call the **Yeast Pathway Kit**, that produces short
-metabolic pathways for a given number of genes compared to other methods. It relies on one library of promoters
-and another for terminators. Pathways are joined together by first making a set of single gene expression vectors by
-homologous recombination. The promoter-gene-terminator fragments (or transcriptional units) can then be stitched together by a second round of homologous recombination:
+### Yeast Pathway Kit
+
+We have developed a metabolic pathway assembly method we call
+the [**Yeast Pathway Kit**](https://pubmed.ncbi.nlm.nih.gov/26916955), that produces
+short metabolic pathways for a given number of genes compared to other methods.
+It relies on one library of promoters and another for terminators. Pathways are
+joined together by first making a set of single gene expression vectors by
+homologous recombination. The promoter-gene-terminator fragments
+(or transcriptional units) can then be stitched together by a second round of
+homologous recombination (see the figure below):
 
 
 ![ypk](yeast_pathway_kit_figure2.png)
 
+### pydna (or Why Is So Much Cloning Documentation Wrong?)
 
+We have developed a bioinformatics tool called `pydna` that allow vector construction
+experiments to be expressed in `Python` code.
+This allows for "programming with DNA", expressing cloning strategies as a computer
+program. This produces a verifiable, complete description of a cloning strategy.
+This is especially powerful in combination with `Jupyter` notebooks to provide
+both code and a readable document. See our Anaconda Maker
+Series [blog post](https://www.anaconda.com/blog/why-is-so-much-cloning-documentation-wrong)
 
-We have developed a bioinformatic tool called `pydna` that allow cloning simulations to be expressed as `Python` code.
-This allows for "programming with DNA", expressing cloning strategies as a computer program. This produces a verifiable, complete
-description of a cloning strategy. This is especially powerful in combination with `Jupyter` notebooks to provide both code and a readable document.
 
 ![pydna](saat_cloning_animation.gif)

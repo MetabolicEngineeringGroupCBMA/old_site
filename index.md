@@ -48,10 +48,10 @@ different aspects of the overall process to increase throughput and maintain pre
 We have developed a metabolic pathway assembly method we call the **Yeast Pathway Kit**, that produces short
 metabolic pathways for a given number of genes compared to other methods. It relies on one library of promoters
 and another for terminators. Pathways are joined together by first making a set of single gene expression vectors by
-homologous recombination. The promoter-gene-terminator fragments (or transcriptional units) can then be stitched together by a second round of homologous recombination
+homologous recombination. The promoter-gene-terminator fragments (or transcriptional units) can then be stitched together by a second round of homologous recombination:
 
 
-![ypk](yeast_pathway_kit_figure.png)
+![ypk](yeast_pathway_kit_figure2.png)
 
 
 

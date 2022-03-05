@@ -19,7 +19,7 @@ title: People
 
 ![PauloSilva]({{ site.url }}/people/PauloSilva.jpg)
 
-### Paulo Silva, PhD student in collaboration with [Dr. Rui Oliveira](https://sites.google.com/site/personalwebpageofruioliveira/)
+### Paulo Silva, PhD student
 
 [CIÊNCIA ID](https://www.ciencia-id.pt) `021F-4CDA-2630`
 

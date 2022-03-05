@@ -38,16 +38,14 @@ title: People
 ### Björn Johansson, PI
 
 - [CIÊNCIA ID](https://www.ciencia-id.pt) `B710-97FC-DACA`
-- FCT Public Key (chave pública) J005395QL1Q
+- FCT Public Key (chave pública) `J005395QL1Q`
 - [Github](https://github.com/BjornFJohansson)
 - [Google Scholar](https://scholar.google.pt/citations?hl=en&user=7AiEuJ4AAAAJ&view_op=list_works&sortby=pubdate)
 - [ORCID](http://orcid.org/0000-0002-7723-074X)
 - [ResearcherID](http://www.researcherid.com/rid/A-3523-2012)
 - [ResearchGate](https://www.researchgate.net/profile/Bjoern_Johansson4)
+- [SCOPUS](https://www.scopus.com/authid/detail.uri?authorId=55984151300)
 - [Stackoverflow](http://stackoverflow.com/users/2080368/bj%C3%B6rn-johansson)
-- [My private blog](http://ochsavidare.blogspot.pt/) In Swedish or English, broad range of topics, not necessarily science.
-- [runkeeper](https://runkeeper.com/user/bjornfjohansson)
-
 
 ## Eight week projects "UC Projeto"
 

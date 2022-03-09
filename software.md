@@ -29,7 +29,7 @@ for more information.
 
 
 ### WebPCR
-![webpcr](https://raw.githubusercontent.com/BjornFJohansson/webpcr/main/static/webpcr.png)
+![webpcr](webpcr.png)
 [WebPCR](http://pydna.pythonanywhere.com/) is a PCR simulator that runs on the cloud service [PythonAnywhere](http://bjornfjohansson.pythonanywhere.com).
 It can be used to simulate PCR, calculate melting temperatures and also design primers for a given sequence.
 

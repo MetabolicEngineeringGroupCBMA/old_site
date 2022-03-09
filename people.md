@@ -5,37 +5,46 @@ title: People
 
 ## Current members
 
-![TatianaPozdniakova]({{ site.url }}/people/Tatiana-Pozdniakova.jpg)
+
 
 ### Tatiana Pozdniakova, Post-Doc
 
+![TatianaPozdniakova]({{ site.url }}/people/Tatiana-Pozdniakova.jpg)
+
 [CIÊNCIA ID](https://www.ciencia-id.pt) `471C-0187-2E29`
 
-![FlavioAzevedo]({{ site.url }}/people/FlavioAzevedo.jpg)
+
 
 ### Flavio de Azevedo, PhD student
 
+![FlavioAzevedo]({{ site.url }}/people/FlavioAzevedo.jpg)
+
 [Google Scholar](https://scholar.google.pt/citations?hl=en&user=lWjZURwAAAAJ&view_op=list_works&sortby=pubdate)
 
-![PauloSilva]({{ site.url }}/people/PauloSilva.jpg)
 
 ### Paulo Silva, PhD student
+
+![PauloSilva]({{ site.url }}/people/PauloSilva.jpg)
 
 [CIÊNCIA ID](https://www.ciencia-id.pt) `021F-4CDA-2630`
 
 [Google Scholar](https://scholar.google.com/citations?hl=pt-PT&user=YMZQjhEAAAAJ&view_op=list_works&sortby=pubdate)
 
-![HumbertoPereira]({{ site.url }}/people/HumbertoPereira.jpg)
+
 
 ### Humberto Pereira, PhD student
+
+![HumbertoPereira]({{ site.url }}/people/HumbertoPereira.jpg)
 
 [Google Scholar](https://scholar.google.pt/citations?hl=en&user=v2htOOsAAAAJ&view_op=list_works&sortby=pubdate)
 
 [CIÊNCIA ID](https://www.ciencia-id.pt) `8E15-710B-3953`
 
-![BjornJohansson]({{ site.url }}/people/BjornJohanssonWhiteBoard.jpg)
+
 
 ### Björn Johansson, PI
+
+![BjornJohansson]({{ site.url }}/people/BjornJohanssonWhiteBoard.jpg)
 
 - [CIÊNCIA ID](https://www.ciencia-id.pt) `B710-97FC-DACA`
 - FCT Public Key (chave pública) `J005395QL1Q`
@@ -50,40 +59,31 @@ title: People
 ## Eight week projects "UC Projeto"
 
 
-![MariaJoãoMogadouroLopes]({{ site.url }}/people/MariaJoãoMogadouroLopes.jpg)
+
 
 Maria João Mogadouro Lopes, 2019
 
-
+![MariaJoãoMogadouroLopes]({{ site.url }}/people/MariaJoãoMogadouroLopes.jpg)
 
 
 ## Former members
 
-![MiguelPacheco]({{ site.url }}/people/MiguelPacheco.jpg)
-
 Miguel Pacheco, MSc
 
-![Gabriela Ribeiro]({{ site.url }}/people/GabrielaRibeiro.jpg)
+![MiguelPacheco]({{ site.url }}/people/MiguelPacheco.jpg)
+
 
 Gabriela Ribeiro, PhD
 
-[Google Scholar](https://scholar.google.pt/citations?hl=en&user=jYkpf0AAAAAJ&view_op=list_works&sortby=pubdate)
-
-![ÂngelaCarvalho]({{ site.url }}/people/AngelaCarvalho.jpg)
+![Gabriela Ribeiro]({{ site.url }}/people/GabrielaRibeiro.jpg)
 
 Ângela Carvalho, MSc
 
-[Google Scholar](https://scholar.google.pt/citations?hl=en&user=rQl-mO4AAAAJ&view_op=list_works&sortby=pubdate)
-
-![Filipa Pereira]({{ site.url }}/people/FilipaPereira.jpg)
+![ÂngelaCarvalho]({{ site.url }}/people/AngelaCarvalho.jpg)
 
 Filipa Pereira, PhD
 
-[Google Scholar](https://scholar.google.pt/citations?hl=en&user=iiHuvP4AAAAJ&view_op=list_works&sortby=pubdate)
-
-
-
-
+![Filipa Pereira]({{ site.url }}/people/FilipaPereira.jpg)
 
 
 ## Short visits

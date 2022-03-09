@@ -46,14 +46,15 @@ title: People
 
 ![BjornJohansson]({{ site.url }}/people/BjornJohanssonWhiteBoard.jpg)
 
+- [CIÊNCIAVITAE](https://www.cienciavitae.pt//en/B710-97FC-DACA)
 - [CIÊNCIA ID](https://www.ciencia-id.pt) `B710-97FC-DACA`
 - FCT Public Key (chave pública) `J005395QL1Q`
-- [Github](https://github.com/BjornFJohansson)
+- [Github - BjornFJohansson](https://github.com/BjornFJohansson)
 - [Google Scholar](https://scholar.google.pt/citations?hl=en&user=7AiEuJ4AAAAJ&view_op=list_works&sortby=pubdate)
-- [ORCID](http://orcid.org/0000-0002-7723-074X)
-- [ResearcherID](http://www.researcherid.com/rid/A-3523-2012)
-- [ResearchGate](https://www.researchgate.net/profile/Bjoern_Johansson4)
+- [ORCID - 0000-0002-7723-074X](http://orcid.org/0000-0002-7723-074X)
+- [ResearcherID - A-3523-2012](http://www.researcherid.com/rid/A-3523-2012)
 - [SCOPUS](https://www.scopus.com/authid/detail.uri?authorId=55984151300)
+- [ResearchGate](https://www.researchgate.net/profile/Bjoern_Johansson4)
 - [Stackoverflow](http://stackoverflow.com/users/2080368/bj%C3%B6rn-johansson)
 
 ## Eight week projects "UC Projeto"

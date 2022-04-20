@@ -46,6 +46,9 @@ title: People
 
 ![BjornJohansson]({{ site.url }}/people/BjornJohanssonWhiteBoard.jpg)
 
+
+- [CBMA page](https://cbma.uminho.pt/people-detail/?userid=22)
+- [Dept page](http://www.bio.uminho.pt/popup.aspx?mdl=~/Modules/PortalSearch/ContactDetails.ascx&mid=738&id=224293&lang=en-US)
 - [CIÊNCIAVITAE](https://www.cienciavitae.pt//en/B710-97FC-DACA)
 - [CIÊNCIA ID](https://www.ciencia-id.pt) `B710-97FC-DACA`
 - FCT Public Key (chave pública) `J005395QL1Q`

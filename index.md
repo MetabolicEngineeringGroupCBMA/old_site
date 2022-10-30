@@ -77,3 +77,15 @@ Series [blog post](https://www.anaconda.com/blog/why-is-so-much-cloning-document
 
 
 ![pydna](saat_cloning_animation.gif)
+
+
+### Funding
+
+We are grateful for funding from:
+
+[Fundação para a Ciência e Tecnologia](https://www.fct.pt) Portugal (FCT) through project
+FatVal PTDC/EAM-AMB/032506/2017 funded by national funds through the FCT I.P.
+and by the ERDF through the COMPETE2020 – Programa Operacional Competitividade e Internacionalizacão (POCI).
+
+
+CBMA was supported by the strategic program UIDB/04050/2020 funded by national funds through the FCT I.P.

@@ -9,7 +9,7 @@ title: People
 
 ### Tatiana Pozdniakova, Post-Doc
 
-![TatianaPozdniakova]({{ site.url }}/people/Tatiana-Pozdniakova.jpg)
+![TatianaPozdniakova](people/Tatiana-Pozdniakova.jpg)
 
 [CIÊNCIA ID](https://www.ciencia-id.pt) `471C-0187-2E29`
 

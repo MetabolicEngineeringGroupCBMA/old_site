@@ -17,14 +17,14 @@ title: People
 
 ### Flavio de Azevedo, PhD student
 
-![FlavioAzevedo]({{ site.url }}/people/FlavioAzevedo.jpg)
+![FlavioAzevedo](people/FlavioAzevedo.jpg)
 
 [Google Scholar](https://scholar.google.pt/citations?hl=en&user=lWjZURwAAAAJ&view_op=list_works&sortby=pubdate)
 
 
 ### Paulo Silva, PhD student
 
-![PauloSilva]({{ site.url }}/people/PauloSilva.jpg)
+![PauloSilva](people/PauloSilva.jpg)
 
 [CIÊNCIA ID](https://www.ciencia-id.pt) `021F-4CDA-2630`
 
@@ -34,7 +34,7 @@ title: People
 
 ### Humberto Pereira, PhD student
 
-![HumbertoPereira]({{ site.url }}/people/HumbertoPereira.jpg)
+![HumbertoPereira](people/HumbertoPereira.jpg)
 
 [Google Scholar](https://scholar.google.pt/citations?hl=en&user=v2htOOsAAAAJ&view_op=list_works&sortby=pubdate)
 
@@ -44,7 +44,7 @@ title: People
 
 ### Björn Johansson, PI
 
-![BjornJohansson]({{ site.url }}/people/BjornJohanssonWhiteBoard.jpg)
+![BjornJohansson](people/BjornJohanssonWhiteBoard.jpg)
 
 
 - [CBMA page](https://cbma.uminho.pt/people-detail/?userid=22)
@@ -67,38 +67,38 @@ title: People
 
 Maria João Mogadouro Lopes, 2019
 
-![MariaJoãoMogadouroLopes]({{ site.url }}/people/MariaJoãoMogadouroLopes.jpg)
+![MariaJoãoMogadouroLopes](people/MariaJoãoMogadouroLopes.jpg)
 
 
 ## Former members
 
 Miguel Pacheco, MSc
 
-![MiguelPacheco]({{ site.url }}/people/MiguelPacheco.jpg)
+![MiguelPacheco](people/MiguelPacheco.jpg)
 
 
 Gabriela Ribeiro, PhD
 
-![Gabriela Ribeiro]({{ site.url }}/people/GabrielaRibeiro.jpg)
+![Gabriela Ribeiro](people/GabrielaRibeiro.jpg)
 
 Ângela Carvalho, MSc
 
-![ÂngelaCarvalho]({{ site.url }}/people/AngelaCarvalho.jpg)
+![ÂngelaCarvalho](people/AngelaCarvalho.jpg)
 
 Filipa Pereira, PhD
 
-![Filipa Pereira]({{ site.url }}/people/FilipaPereira.jpg)
+![Filipa Pereira](people/FilipaPereira.jpg)
 
 
 ## Short visits
 
-![JilianaCabrini]({{ site.url }}/people/JulianaCabrini.jpg)
+![JilianaCabrini](people/JulianaCabrini.jpg)
 
 Juliana Cabrini Carmello, PhD student
 
 [Google Scholar](https://scholar.google.com.br/citations?hl=pt-BR&user=4Nu2uwoAAAAJ&view_op=list_works&sortby=pubdate)
 
-![AnaPoveda]({{ site.url }}/people/AnaPoveda.png)
+![AnaPoveda](people/AnaPoveda.png)
 
 Ana Poveda, PhD
 
